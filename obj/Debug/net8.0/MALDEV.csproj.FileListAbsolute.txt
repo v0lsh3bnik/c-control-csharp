@@ -1,0 +1,15 @@
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\bin\Debug\net8.0\MALDEV.exe
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\bin\Debug\net8.0\MALDEV.deps.json
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\bin\Debug\net8.0\MALDEV.runtimeconfig.json
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\bin\Debug\net8.0\MALDEV.dll
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\bin\Debug\net8.0\MALDEV.pdb
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.AssemblyInfoInputs.cache
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.AssemblyInfo.cs
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.csproj.CoreCompileInputs.cache
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.dll
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\refint\MALDEV.dll
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.pdb
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.genruntimeconfig.cache
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\ref\MALDEV.dll
+C:\Users\jacky\OPS\C#\Udemy\MALDEV\obj\Debug\net8.0\MALDEV.sourcelink.json
