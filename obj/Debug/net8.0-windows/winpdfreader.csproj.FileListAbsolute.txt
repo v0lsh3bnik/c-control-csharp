@@ -12,3 +12,4 @@ C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\refint\winpdfreader.
 C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.pdb
 C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.genruntimeconfig.cache
 C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\ref\winpdfreader.dll
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.sourcelink.json

