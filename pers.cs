@@ -2,7 +2,7 @@
 
 // dotnet add package Microsoft.Win32.Registry
 
-namespace MalDev;
+namespace Winpdfreader;
 
 public class Persistance
 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGpiqD2iClVPwFukb8wsrTue4W/6WS6IEnBL4V5i+/mTSE/e5GFngL7KgQN1trlVsmdjFAd9gUlwn8eC4zeaAw==",
+  "dgSpecHash": "UKEqg08lm6EHxWIXLx54kIktmNrEl79mSsbMilEd6isc4wCppCWkMoJZJKYS8GBzDxXmuVPhTR3Fa6dwQV3xig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacky\\OPS\\C#\\Udemy\\MALDEV\\MALDEV.csproj",
+  "projectFilePath": "C:\\Users\\jacky\\OPS\\C#\\winpdfreader\\winpdfreader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacky\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\jacky\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

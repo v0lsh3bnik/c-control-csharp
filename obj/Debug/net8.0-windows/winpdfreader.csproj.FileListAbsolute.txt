@@ -1,0 +1,14 @@
+C:\Users\jacky\OPS\C#\winpdfreader\bin\Debug\net8.0-windows\winpdfreader.exe
+C:\Users\jacky\OPS\C#\winpdfreader\bin\Debug\net8.0-windows\winpdfreader.deps.json
+C:\Users\jacky\OPS\C#\winpdfreader\bin\Debug\net8.0-windows\winpdfreader.runtimeconfig.json
+C:\Users\jacky\OPS\C#\winpdfreader\bin\Debug\net8.0-windows\winpdfreader.dll
+C:\Users\jacky\OPS\C#\winpdfreader\bin\Debug\net8.0-windows\winpdfreader.pdb
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.AssemblyInfoInputs.cache
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.AssemblyInfo.cs
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.csproj.CoreCompileInputs.cache
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.dll
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\refint\winpdfreader.dll
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.pdb
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\winpdfreader.genruntimeconfig.cache
+C:\Users\jacky\OPS\C#\winpdfreader\obj\Debug\net8.0-windows\ref\winpdfreader.dll

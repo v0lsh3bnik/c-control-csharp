@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Net;
 using System.Numerics;
 
-namespace MalDev
+namespace Winpdfreader
 {
     public class GeneralInfo
     {
@@ -53,5 +53,6 @@ namespace MalDev
             Console.WriteLine($"{cInstance.INFO} PROCESS ID : " + this.pId);
             Console.WriteLine("\n");
         }
+        
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace MalDev;
+﻿namespace Winpdfreader;
 
 public class Customization
 {

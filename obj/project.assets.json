@@ -259,11 +259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacky\\OPS\\C#\\Udemy\\MALDEV\\MALDEV.csproj",
-      "projectName": "MALDEV",
-      "projectPath": "C:\\Users\\jacky\\OPS\\C#\\Udemy\\MALDEV\\MALDEV.csproj",
+      "projectUniqueName": "C:\\Users\\jacky\\OPS\\C#\\winpdfreader\\winpdfreader.csproj",
+      "projectName": "winpdfreader",
+      "projectPath": "C:\\Users\\jacky\\OPS\\C#\\winpdfreader\\winpdfreader.csproj",
       "packagesPath": "C:\\Users\\jacky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacky\\OPS\\C#\\Udemy\\MALDEV\\obj\\",
+      "outputPath": "C:\\Users\\jacky\\OPS\\C#\\winpdfreader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -286,6 +286,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

